@@ -62,7 +62,9 @@ body{
 }
 button:nth-child(4){
 	font-size: 20px;
+
 	background-color: blue;
+
 }
 button:nth-child(8){
 	font-size: 20px;
